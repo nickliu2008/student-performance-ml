@@ -1,6 +1,6 @@
 # Predicting Student Academic Performance Using Machine Learning
 
-A capstone research project comparing five machine learning algorithms on the UCI Student Performance dataset, predicting both exact final grades (regression) and pass/fail outcomes (classification), with feature-importance analysis to identify what actually drives student outcomes.
+A BIGZ (highschool) capstone research project comparing five machine learning algorithms on the UCI Student Performance dataset, predicting both exact final grades (regression) and pass/fail outcomes (classification), with feature-importance analysis to identify what actually drives student outcomes.
 
 ## Dataset
 
